@@ -1,3 +1,5 @@
+.ipynb_checkpoints/*
+.ipynb_checkpoints/User_Knowledge_Viz-checkpoint.ipynb
 # History files
 .Rhistory
 .Rapp.history
